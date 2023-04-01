@@ -1,0 +1,74 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red
+}
+
+
+
+.blue{
+    background-color: blue;
+}
+
+
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+.header{
+    height: 100px;
+    background-color: orange;
+}
+
+.container{
+overflow: hidden;
+}
+
+.blog{
+    float: left;
+    width: 40%;
+    height: 200px;
+    background-color: purple;
+ }
+.contact{
+float: right;
+width: 60%;
+height: 200px;
+background-color: blue;
+}
+
+.item{
+    float: left;
+    width:33.33%;
+    height: 100px;
+}
+
+.aqua{
+    background-color: aqua;
+
+}
+
+.pink{
+    background-color: pink;
+}
+
+.gray{
+    background-color: gray;
+
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+
+}
+
+
+
